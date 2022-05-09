@@ -67,6 +67,12 @@ html {
     margin: 5px;
 }
 
+.socials {
+    width: 45px;
+    height: 40px;
+    padding-right: 10px;
+}
+
 .image {
     border: solid;
     border-radius: 200px;
